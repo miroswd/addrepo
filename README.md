@@ -1,6 +1,6 @@
 <h1>Aplicação que busca repositórios do Github</h1>
 <h4>Estudos relacionado ao ES6+</h4>
-<p>Essa aplicação utiliza o nome do usuário + repositório desejado para renderizar em tela,</br>
+<p>Essa aplicação utiliza o nome do usuário + repositório desejado, para renderizar em tela:</br>
 a imagem do avatar,o nome do repositório, a descrição do mesmo,e o link para o repositório.</p>
 
 <h2>Conceitos utilizados</h2>
